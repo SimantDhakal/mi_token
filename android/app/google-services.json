@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "771510285634",
+    "project_id": "micare-5e9b3",
+    "storage_bucket": "micare-5e9b3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:771510285634:android:769372df7246e1c43484db",
+        "android_client_info": {
+          "package_name": "com.ecrc.micare"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "771510285634-8hl3dvqhghabqadv0nn71p4fai0egadb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDvaOZnhTWb26gQVaJRlIkQqU0Wl_jFTN8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "771510285634-8hl3dvqhghabqadv0nn71p4fai0egadb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
